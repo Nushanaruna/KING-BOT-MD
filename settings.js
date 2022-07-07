@@ -18,14 +18,14 @@ global.ownernomer = '94741089734'
 global.ownername = '🕊️♥️crazy'
 global.botname = '[🇱🇰𝐂𝐑𝐀𝐙𝐘 𝛃𝚯𝚪🤘]'
 global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
+global.ig = 'https://github.com/CRAZY-BOT-OFFICIAL'
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.sc = 'https://github.com/CRAZY-BOT-OFFICIAL/CRAZY-BOT-RG'
+global.myweb = '🥵⃝crazy yt'
 global.packname = '[🇱🇰𝐂𝐑𝐀𝐙𝐘 𝛃𝚯𝚪🤘]'
 global.author = '🕊️♥️crazy'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
+global.prefa = ['','!','.','🥵','😈','🤡']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
@@ -36,7 +36,7 @@ global.mess = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    error: 'Error! Maybe Api Key Is Expired👀!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
